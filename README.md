@@ -1,9 +1,7 @@
 # Company
 
 # Project technologies list
-* Spring Boot
-* Spring Security
-* Spring Data JPA 
+* Spring Framework
 * REST API
 * JWT
 * Maven
@@ -11,4 +9,3 @@
 * Validation
 * Error Handling
 * OpenAPI Specification
-* Logging
